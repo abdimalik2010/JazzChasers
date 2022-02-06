@@ -19,10 +19,7 @@
 ## Logical Design:
 
 
-
-
-
-
+![JazzChasers_Database_Logical_Design](https://user-images.githubusercontent.com/9266358/152700972-81909cf6-260c-4068-8c74-19d6dab45633.png)
 
 
 
@@ -32,4 +29,5 @@
 
 
 ## Physical Design:
+![JazzChasers Database Physical Design](https://user-images.githubusercontent.com/9266358/152701016-3a21839c-af42-4615-92a1-c6120ec3b6b7.png)
 
