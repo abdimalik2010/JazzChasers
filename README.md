@@ -27,6 +27,8 @@
 ## ERD Design:
 ![diagram](https://user-images.githubusercontent.com/91993656/152588839-fb8ec2b7-8900-401f-8052-4d40e0079007.gif)
 
+## ERD Design created by using pgAdmin
+![JazzChasers Database ERD Design_PGadmin](https://user-images.githubusercontent.com/9266358/153074771-e8f78d00-3ab9-4dd9-95da-acbda12acf19.png)
 
 ## Physical Design:
 ![JazzChasers Database Physical Design](https://user-images.githubusercontent.com/9266358/152701016-3a21839c-af42-4615-92a1-c6120ec3b6b7.png)
